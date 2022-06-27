@@ -79,17 +79,17 @@ public enum Version: String {
     case iPadMini6
     case iPadAirM2_11Inch
     case iPadAirM2_13Inch
-
+    
     /*** iPadPro ***/
     case iPadPro9_7Inch
-    case iPadPro12_9Inch
     case iPadPro10_5Inch
-    case iPadPro12_9Inch2
     case iPadPro11_0Inch
-    case iPadPro12_9Inch3
     case iPadPro11_0Inch2
     case iPadPro11_0Inch3
     case iPadPro11_0Inch4
+    case iPadPro12_9Inch
+    case iPadPro12_9Inch2
+    case iPadPro12_9Inch3
     case iPadPro12_9Inch4
     case iPadPro12_9Inch5
     case iPadPro12_9Inch6
